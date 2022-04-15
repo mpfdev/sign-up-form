@@ -1,2 +1,8 @@
-# sign-up-form
-Sign-up form for an imaginary service
+# Sign-Up Form
+
+* This imaginary Sign-Up form was made with Bootstrap CSS Framework.
+* It's not responsive, yet!
+
+![Image](./assets/screenshot.png)
+
+Made by me :)
